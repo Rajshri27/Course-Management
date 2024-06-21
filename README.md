@@ -1,3 +1,4 @@
+
 The Course Management System is a web-based platform designed to streamline the administration and participation in educational courses. It offers comprehensive tools for both instructors and students, enabling effective course delivery and learning management. The system is implemented using Object-Oriented Programming (OOP) principles, ensuring modularity, scalability, and ease of maintenance.
 
 Key functionalities include:
